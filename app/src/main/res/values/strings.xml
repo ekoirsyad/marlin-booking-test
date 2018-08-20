@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Marlin Booking Test</string>
+    <string name="str_soal_1">Soal 1</string>
+    <string name="str_soal_2">Soal 2</string>
+    <string name="str_image_product_marlin">image_product_marlin</string>
 </resources>
